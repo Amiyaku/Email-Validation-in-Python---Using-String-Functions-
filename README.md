@@ -1,1 +1,1 @@
-# Email-Validation-in-Python---Using-String-Functions-
+Email validation is an essential feature in many applications to ensure that the user inputs a properly formatted email address. In Python, this can be achieved using various string functions to check for specific patterns and rules that define a valid email address.
